@@ -1,0 +1,11 @@
+Total Votes: 369711
+{'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymond Anthony Doane': 11606}
+Charles Casper Stockham 23.048543321675577
+Diana DeGette 73.81224794501651
+Raymond Anthony Doane 3.139208733307908
+
+
+
+During this week, we learned how to input code in python to extract the data given in excel to tally, groupby and analyze the polling data. The winner of the poll is 
+Diana DeGette whose got the most votes comparing to the other candidates. She got 73.81% of the votes whereas her opponents Charlas Stockham got 23% and 
+Raymond Doane only got 3.14% of the total votes. 
